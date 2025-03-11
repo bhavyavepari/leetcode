@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bhavyavepari/leetcode/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/bhavyavepari/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
