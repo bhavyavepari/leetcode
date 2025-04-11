@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/bhavyavepari/leetcode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhavyavepari/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2998-count-symmetric-integers](https://github.com/bhavyavepari/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/bhavyavepari/leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/bhavyavepari/leetcode/tree/master/0605-can-place-flowers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/bhavyavepari/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
